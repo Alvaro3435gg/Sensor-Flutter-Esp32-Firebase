@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593648348946",
+    "project_id": "fir-esp32-flutter-tempsen",
+    "storage_bucket": "fir-esp32-flutter-tempsen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593648348946:android:fb6e98f04b7d59126f4dcb",
+        "android_client_info": {
+          "package_name": "com.example.pruebas_databse_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpq5dB3OmZqvijWoARe-rH-LFUQAWlmgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
